@@ -1,18 +1,21 @@
 # Diabetes Prediction Model
 
-## 📌 Overview
+## Live Demo
+Check out the live application here: [Diabetes Risk Predictor](https://diabetes-risk-predictor-2279.onrender.com)
+
+## Overview
 Developed a machine learning-based system to predict the likelihood of diabetes in patients using clinical and demographic data. The model focuses on handling imbalanced datasets and improving early detection performance.
 
 ---
 
-## 🚀 Objectives
+## Objectives
 - Predict diabetes occurrence with high recall for better medical screening
 - Compare multiple machine learning models for performance optimization
 - Handle class imbalance effectively
 
 ---
 
-## 🧠 Models Used
+## Models Used
 - Random Forest  
 - XGBoost  
 - Naive Bayes  
